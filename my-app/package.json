@@ -6,7 +6,7 @@
   "main": "src/index.js",
   "dependencies": {
     "mdbreact": "4.18.0",
-    "random-key": "0.3.2",
+    "random-key": "^0.3.2",
     "react": "16.8.6",
     "react-bootstrap": "1.0.0-beta.9",
     "react-dom": "16.8.6",

@@ -1,1 +1,0 @@
-# Infoshare_zadanie_poprawkowe
